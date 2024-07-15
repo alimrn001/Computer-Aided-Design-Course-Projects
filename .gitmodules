@@ -1,0 +1,6 @@
+[submodule "CA-1"]
+	path = CA-1
+	url = https://github.com/alimrn001/CAD-CA-1-FALL-1401
+[submodule "Midterm-project"]
+	path = Midterm-project
+	url = https://github.com/alimrn001/CAD-Midterm-Project
